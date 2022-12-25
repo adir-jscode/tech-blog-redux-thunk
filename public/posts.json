@@ -1,0 +1,23 @@
+[
+    {
+        "title":"What is redux?",
+        "details":"Redux is simply a store to store the state of the variables in your app. Redux creates a process and procedures to interact with the store so that components will not just update or read the store randomly. Similar to the bank. It does not mean because you have money in the bank that you can go anytime, open the vault, and take money. You have to go through certain steps to withdrawal money.",
+        "description": "",
+        "picture": ["https://i.ibb.co/wKcZnxZ/redux-01.jpg","https://i.ibb.co/jMzxRNj/redux-02.webp"]
+
+},
+{
+    "title":"What is thunk?",
+    "details":"Redux Thunk is middleware that allows you to return functions, rather than just actions, within Redux. This allows for delayed actions, including working with promises.",
+    "description":"",
+    "picture":["https://i.ibb.co/dJBbJsy/thunk-01.jpg","https://i.ibb.co/rxd1fDH/redux-thunk.jpg"]
+},
+{
+    "title":"What is context API?",
+        "details":"Context API can solve many problems that modern applications face, related to state management, for example, props drilling. Many solutions can solve state management issues and props drilling, but they may increase your build size and compromise your app performance.",
+        "description":"",
+        "picture":["https://i.ibb.co/crL7Hjw/context-api-01.png","https://i.ibb.co/Z68mSsW/context-api-02.webp"]
+}
+
+
+]
